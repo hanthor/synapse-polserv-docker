@@ -1,4 +1,4 @@
-FROM ghcr.io/element-hq/synapse:v1.128.0
+FROM ghcr.io/element-hq/synapse:v1.129.0
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends git && \

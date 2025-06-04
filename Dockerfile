@@ -1,4 +1,4 @@
-FROM ghcr.io/element-hq/synapse:v1.130.0@sha256:a05a1e6b574c02957e1729a23462196679bed185cf169b5844be4cd04b198ccf
+FROM ghcr.io/element-hq/synapse:v1.131.0@sha256:0ccf03d915a636d12bcb35f49935421445a4d644c0449cc211252663b9137cd0
 
 # label container witht the version of the image from the FROM line
 LABEL org.opencontainers.image.version="1.129.0"
